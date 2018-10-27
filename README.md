@@ -19,7 +19,7 @@
 
 <h2 align="center">
   <img src="./assets/garden/small-hermies-star.gif" alt="small hermies star">
-  a decent(ralised) secure gossip platform
+  a decent<span style="color:#888">ralised</span> secure gossip platform
   <img src="./assets/garden/small-hermies-love.gif" alt="small hermies love">
 </h2>
 
